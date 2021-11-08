@@ -1,0 +1,13 @@
+name = "CaluCenter"
+uuid = "39484a41-a3f9-4969-8072-b5c748bd1034"
+authors = ["Vking Wei"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
